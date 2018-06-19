@@ -1,0 +1,15 @@
+/home/alexey/PaymentGateway/BankApi/obj/Debug/netcoreapp2.0/BankApi.csprojResolveAssemblyReference.cache
+/home/alexey/PaymentGateway/BankApi/obj/Debug/netcoreapp2.0/BankApi.csproj.CoreCompileInputs.cache
+/home/alexey/PaymentGateway/BankApi/obj/Debug/netcoreapp2.0/BankApi.AssemblyInfoInputs.cache
+/home/alexey/PaymentGateway/BankApi/obj/Debug/netcoreapp2.0/BankApi.AssemblyInfo.cs
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApi\bin\Debug\netcoreapp2.0\BankApi.deps.json
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApi\bin\Debug\netcoreapp2.0\BankApi.runtimeconfig.json
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApi\bin\Debug\netcoreapp2.0\BankApi.runtimeconfig.dev.json
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApi\bin\Debug\netcoreapp2.0\BankApi.dll
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApi\obj\Debug\netcoreapp2.0\BankApi.csprojResolveAssemblyReference.cache
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApi\obj\Debug\netcoreapp2.0\BankApi.csproj.CoreCompileInputs.cache
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApi\obj\Debug\netcoreapp2.0\BankApi.AssemblyInfoInputs.cache
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApi\obj\Debug\netcoreapp2.0\BankApi.AssemblyInfo.cs
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApi\bin\Debug\netcoreapp2.0\BankApi.pdb
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApi\obj\Debug\netcoreapp2.0\BankApi.dll
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApi\obj\Debug\netcoreapp2.0\BankApi.pdb

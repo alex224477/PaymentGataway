@@ -1,0 +1,17 @@
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\bin\Debug\netcoreapp2.0\BankApiUnitTest.deps.json
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\bin\Debug\netcoreapp2.0\BankApiUnitTest.runtimeconfig.json
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\bin\Debug\netcoreapp2.0\BankApiUnitTest.runtimeconfig.dev.json
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\bin\Debug\netcoreapp2.0\BankApiUnitTest.dll
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\obj\Debug\netcoreapp2.0\BankApiUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\obj\Debug\netcoreapp2.0\BankApiUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\obj\Debug\netcoreapp2.0\BankApiUnitTest.AssemblyInfoInputs.cache
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\obj\Debug\netcoreapp2.0\BankApiUnitTest.AssemblyInfo.cs
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\bin\Debug\netcoreapp2.0\BankApiUnitTest.pdb
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\bin\Debug\netcoreapp2.0\BankApi.dll
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\bin\Debug\netcoreapp2.0\BankApi.pdb
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\obj\Debug\netcoreapp2.0\BankApiUnitTest.csproj.CopyComplete
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\obj\Debug\netcoreapp2.0\BankApiUnitTest.dll
+C:\Users\RRP-GolubovAV\Desktop\PaymentGateway\BankApiUnitTest\obj\Debug\netcoreapp2.0\BankApiUnitTest.pdb
